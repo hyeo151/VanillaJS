@@ -1,0 +1,11 @@
+arrow function
+.sort() randomize
+document.createElement()
+array.forEach((item) =>{})
+element.setAttribute()
+element.appendChild()
+element.addEventListener("click",(e)=>{})
+e.target
+element.style.pointerEvents
+element.innerText
+setTimeout();
